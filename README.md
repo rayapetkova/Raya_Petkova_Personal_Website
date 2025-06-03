@@ -15,3 +15,8 @@ https://youtu.be/YQCDUJ6hhNY?si=8E83Q-trzUb4Auhv
 https://youtu.be/At6XyItIHsE?si=8YpU0gloMVxMUFSY
 
 2:10 --> https://youtu.be/7168SXKS0_c?si=HWVJE5XA7Kj_2cBq
+
+### Three.js (3D components)
+Why isn't it a great idea to use 3D components for my personal website?:
+- 3D assets are heavy
+- Performance and load time (on mobile it would be loading long time... if it actually loads)
