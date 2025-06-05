@@ -20,3 +20,7 @@ https://youtu.be/At6XyItIHsE?si=8YpU0gloMVxMUFSY
 Why isn't it a great idea to use 3D components for my personal website?:
 - 3D assets are heavy
 - Performance and load time (on mobile it would be loading long time... if it actually loads)
+
+### Ideas:
+- Theme switcher (light/dark)
+- Custom cursor (cursor changes when hovering over some element/elements)
