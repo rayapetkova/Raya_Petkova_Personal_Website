@@ -24,3 +24,5 @@ Why isn't it a great idea to use 3D components for my personal website?:
 ### Ideas:
 - Theme switcher (light/dark)
 - Custom cursor (cursor changes when hovering over some element/elements)
+- Built-in terminal in which people who are viewing the portfolio can add commands like "whoami" and "ls projects":
+  - for "ls projects" links could be displayed for each project in my GitHub
